@@ -2,7 +2,8 @@ import json
 import os
 import uuid
 
-RESUME_DB_PATH = "backend/data/resumes.json"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RESUME_DB_PATH = os.path.join(BASE_DIR, "data", "resumes.json")
 
 
 def ensure_db():
