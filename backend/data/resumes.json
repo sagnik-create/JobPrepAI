@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "id": "423e40d0-4973-4e95-ae5c-1755b4e162a6",
+        "file_name": "Sagnik_Dey (3).pdf",
+        "file_path": "backend/uploads/Sagnik_Dey (3).pdf",
+        "uploaded_at": "2026-07-01T20:58:07.670230",
+        "parsed_data": {
+            "name": "Sagnik Dey",
+            "email": "sagnikd587@gmail.com | 817-891-1288 | linkedin.com/in/sagnikdcodes | github.com/sagnik-create",
+            "phone": "2",
+            "skills": [
+                "Technical Skills"
+            ],
+            "experience": [],
+            "education": [
+                "Education"
+            ]
+        },
+        "ai_data": {
+            "error": "Invalid JSON",
+            "raw_output": null
+        },
+        "insights": {
+            "error": "Invalid JSON",
+            "raw_output": null
+        },
+        "is_active": true
+    }
+]
